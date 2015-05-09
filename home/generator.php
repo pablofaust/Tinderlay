@@ -26,6 +26,8 @@ $array[] = 'T\'es plutôt chien ou plutôt chat ? (La suite de la conversation d
 $array[] = 'Dis-moi de quelle couleur est ta culotte, je te dirai qui tu es.';
 $array[] = 'Tout le monde m\'a beaucoup déçu jusqu\'à présent : tu voudrais pas relever le niveau ?';
 $array[] = 'Que penses-tu de la situation géopolitique en Afrique centrale ?';
+$array[] = 'J\'ai fait trop de macarons au fromage, on partage ?';
+$array[] = 'Je cherche quelqu\'un pour partager mes cigarettes.';
 
 
 //$array = array($first, $second, $third, $fourth, $fifth, $sixth, $seventh, $eigth, $nineth, $tenth, $eleventh, $twelfth, $thirteenth, $fourteenth, $fifteenth, $sixteenth, $seventeenth, $eighteenth, $nineteenth, $twentieth, $twentyfirst, $twentyfourth, $twentyfifth);
