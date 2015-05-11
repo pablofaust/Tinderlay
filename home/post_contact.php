@@ -1,7 +1,7 @@
 <?php
 
-codigo tomado de algun lugar en la red
-INGRESE EL EMAIL DONDE RECIBIRÁ LOS DATOS DEL FOMULARIO
+//codigo tomado de algun lugar en la red
+//INGRESE EL EMAIL DONDE RECIBIRÁ LOS DATOS DEL FOMULARIO
 
 $for = 'pabfaust@gmail.com'; 
  
