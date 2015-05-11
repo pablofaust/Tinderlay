@@ -11,6 +11,4 @@
 
 
 </body>
-
-<?php include $route.'/assets/statsmix.php' ?>
 <?php include $route.'/assets/footer.php' ?>
