@@ -15,5 +15,6 @@ try {
 catch (Exception $e) {
   // handle exceptions here; the library methods all throw StatsMixException
 }
+//commentaire pour pouvoir faire un git
 
 ?>
