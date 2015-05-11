@@ -12,4 +12,5 @@
 
 </body>
 
+<?php include $route.'/assets/startsmix.php' ?>
 <?php include $route.'/assets/footer.php' ?>
