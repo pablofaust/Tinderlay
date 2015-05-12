@@ -8,7 +8,7 @@ $for = 'pabfaust@gmail.com';
 $subject = "Nouvelle Tinderline"; 
  
 $mailheader = "From: ".$_POST["mail"]."<".$_POST["mail"].">\r\n"; 
-$mailheader .= "Reply-To: ".$_POST["mail"]."\r\n"; 
+// $mailheader .= "Reply-To: ".$_POST["mail"]."\r\n"; 
 $mailheader .= "Content-type: text/html; charset=iso-8859-1\r\n"; 
  
 $MESSAGE_BODY .= "Email: ".$_POST["mail"]."<br>"; 

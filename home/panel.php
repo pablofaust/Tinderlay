@@ -14,7 +14,7 @@
 
               <form action="home/post_contact.php" method="POST">
                     <textarea required id="inputmessage" rows="1" placeholder="Ta super punchline" name="message" class="form-control"><?= isset($_SESSION['inputs']['message']) ? $_SESSION['inputs']['message'] : ''; ?></textarea>
-                    <input required type="text" placeholder="Ton mail, pour qu'on te réponde" name="mail" class="form-control" id="inputname" value="<?= isset($_SESSION['inputs']['name']) ? $_SESSION['inputs']['name'] : ''; ?>">
+                    <input required type="text" placeholder="Ton mail, pour qu'on te réponde" name="mail" class="form-control" id="inputname" value="<?= isset($_SESSION['inputs']['mail']) ? $_SESSION['inputs']['mail'] : ''; ?>">
                     <button type="submit" class="submit btn">Envoyer</button>
               </form>
 
