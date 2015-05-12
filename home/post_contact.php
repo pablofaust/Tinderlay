@@ -1,14 +1,16 @@
 <?php
 
-// codigo tomado de algun lugar en la red
-// INGRESE EL EMAIL DONDE RECIBIRÁ LOS DATOS DEL FOMULARIO
+use Mailgun\Mailgun;
 
+//Your credentials
+$mg = new Mailgun("key-5d424be0c125221134ef28fdd39d66b0");
+$domain = "app42401434151a4b48bb4312c467ada548.mailgun.org";
 $for = 'pabfaust@gmail.com'; 
  
 $subject = "Nouvelle Tinderline"; 
  
 $mailheader = "From: ".$_POST["mail"]."<".$_POST["mail"].">\r\n"; 
-// $mailheader .= "Reply-To: ".$_POST["mail"]."\r\n"; 
+$mailheader .= "Reply-To: ".$_POST["mail"]."\r\n"; 
 $mailheader .= "Content-type: text/html; charset=iso-8859-1\r\n"; 
  
 $MESSAGE_BODY .= "Email: ".$_POST["mail"]."<br>"; 
@@ -28,5 +30,3 @@ mail( $for, $subject, $MESSAGE_BODY, $mailheader) or die ("Votre message n'a pas
 
 echo "<script>alert('Merci, votre message nous a bien été envoyé ! On vous répondra au plus vite !')</script>";
 echo "<SCRIPT>history.back(1)</SCRIPT>"; 
- 
-?>
