@@ -31,8 +31,7 @@ $array[] = 'Je cherche quelqu\'un pour partager mes cigarettes.';
 $array[] = 'Salut, beauté, tu veux faire un tour en métro ? (Ma moto est en réparation)';
 $array[] = 'Caleçon ou boxer (la suite de la soirée dépend exclusivement de ta réponse) ?';
 $array[] = 'Tu préfères des bougies à la vanille ou aux fruits rouges pour notre dîner aux chandelles ?';
-$array[] = 'Ca te dit un footing ? Sinon on peut toujours aller fumer des clopes et boire des verres';
-$array[] = 'Je cherche quelqu\'un pour partager mes cigarettes.';
+$array[] = 'Ca te dit un footing ? Sinon on peut toujours aller fumer des clopes et boire des verres...';
 
 
 
