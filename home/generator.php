@@ -28,6 +28,12 @@ $array[] = 'Tout le monde m\'a beaucoup déçu jusqu\'à présent : tu voudrais 
 $array[] = 'Que penses-tu de la situation géopolitique en Afrique centrale ?';
 $array[] = 'J\'ai fait trop de macarons au fromage, on partage ?';
 $array[] = 'Je cherche quelqu\'un pour partager mes cigarettes.';
+$array[] = 'Salut, beauté, tu veux faire un tour en métro ? (Ma moto est en réparation)';
+$array[] = 'Caleçon ou boxer (la suite de la soirée dépend exclusivement de ta réponse) ?';
+$array[] = 'Tu préfères des bougies à la vanille ou aux fruits rouges pour notre dîner aux chandelles ?';
+$array[] = 'Ca te dit un footing ? Sinon on peut toujours aller fumer des clopes et boire des verres';
+$array[] = 'Je cherche quelqu\'un pour partager mes cigarettes.';
+
 
 
 //$array = array($first, $second, $third, $fourth, $fifth, $sixth, $seventh, $eigth, $nineth, $tenth, $eleventh, $twelfth, $thirteenth, $fourteenth, $fifteenth, $sixteenth, $seventeenth, $eighteenth, $nineteenth, $twentieth, $twentyfirst, $twentyfourth, $twentyfifth);
