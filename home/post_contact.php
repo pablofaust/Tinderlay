@@ -24,7 +24,7 @@ $url = "https://api:".$key."@api.mailgun.net/v2/".$domain."/messages";
 
 ?>
 
-<form action="<?php echo $url ?>">
+<form action="<?php echo $url ?>" method="POST">
 <input type="hidden" name="to" value="postmaster@app42401434151a4b48bb4312c467ada548.mailgun.org">
 <input type="text" name="from" value="mail">
 <input type="hidden" name="subject" value="TEST">
