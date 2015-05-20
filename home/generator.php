@@ -15,7 +15,6 @@ $array[] = 'J\'ai envie de m\'éclater la gueule, tu m\'accompagnes ?';
 $array[] = 'Bonjour, Mademoiselle.';
 $array[] = 'Est-ce que t\'aurais du temps pour refaire le monde ?';
 $array[] = 'Ce week-end on loue une moto/voiture et on se casse à la campagne, ça te dit ?';
-$array[] = 'C\'est quoi ton poison ?';
 $array[] = 'Ne sois pas timide, je ne te mangerai pas (tout de suite)';
 $array[] = 'Viens on sort.';
 $array[] = 'Je vais essayer de la jouer un peu intello : ça te tente une expo ?';
