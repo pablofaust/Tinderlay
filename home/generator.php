@@ -33,6 +33,7 @@ $array[] = 'Caleçon ou boxer (la suite de la soirée dépend exclusivement de t
 $array[] = 'Tu préfères des bougies à la vanille ou aux fruits rouges pour notre dîner aux chandelles ?';
 $array[] = 'Ca te dit un footing ? Sinon on peut toujours aller fumer des clopes et boire des verres...';
 $array[] = 'Mes deux passions sont l\'amour et le chocolat : ça te dit d\'être mon Tinder Surprise ?';
+$array[] = 'Action ou vérité ?';
 
 
 
